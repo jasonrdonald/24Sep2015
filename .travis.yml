@@ -1,2 +1,2 @@
 language: csharp
-solution: ./NewClassLib/NewClassLib.sln
+solution: ./TestingApp/TestingApp.sln
