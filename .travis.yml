@@ -1,5 +1,5 @@
 language: csharp
 mono:
-  - 4.0.3
+  - latest
   
 solution: ./TestingApp/TestingApp.sln
