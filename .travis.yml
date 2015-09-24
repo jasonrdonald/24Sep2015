@@ -1,2 +1,4 @@
 language: csharp
+mono:
+  - 4.0.3
 solution: ./TestingApp/TestingApp.sln
