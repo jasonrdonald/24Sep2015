@@ -1,3 +1,2 @@
 language: csharp
-
-script: msbuild ./NewClassLib/src/NewClassLib/NewClassLib.xproj
+solution: ./NewClassLib/NewClassLib.sln
