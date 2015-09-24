@@ -1,2 +1,4 @@
 language: csharp
 solution: ./src/NewClassLib/NewClassLib.sln
+
+script: make build
