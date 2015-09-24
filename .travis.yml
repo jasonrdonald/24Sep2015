@@ -1,5 +1,5 @@
 language: csharp
-solution: ./NewClassLib/NewClassLib.sln
+solution: ./src/NewClassLib/NewClassLib.sln
 
 script:
-  - xbuild ./NewClassLib/NewClassLib.sln
+  - xbuild ./src/NewClassLib/NewClassLib.sln
