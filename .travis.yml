@@ -1,2 +1,4 @@
 language: csharp
 solution: ./NewClassLib/NewClassLib.sln
+
+install: make install
